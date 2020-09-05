@@ -1,5 +1,5 @@
 
-# Wolf User Bot
+# Edith User Bot
 
 ![logo](https://telegra.ph/file/277e2767055da1a50bea9.jpg)
 
@@ -9,11 +9,11 @@
 
 ## What is it?
 
-WolfUserBot is a modular Telegram userbot running on Python3, which can be coupled up with Heroku.
+EdithUserBot is a modular Telegram userbot running on Python3, which can be coupled up with Heroku.
 
-WolfUserBot is currently maintained by [Rajveer](https://t.me/Smart_S54) [ϻʀ 𝗦ᴀᴍᴍʏ┃WᴏʟꜰGᴀɴɢ┃ 🐺 ](https://t.me/Mr_Semmy). It started as a simple bot,
+EdithUserBot is currently maintained by [Ronin](https://t.me/StarkXen). It started as a simple bot,
 
-which helped with group management, [WolfUserBot](https://github.com/WolfGangIndia/WolfUserBot).
+which helped with group management, [EdithUserBot](https://github.com/WolfGangIndia/WolfUserBot).
 
 It has since evolved, becoming extremely modular and simple to use.
 
