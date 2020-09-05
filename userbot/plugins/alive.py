@@ -15,7 +15,7 @@ from PIL import Image
 import os
 import nekos
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "wolf"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Edith"
 WOLF_IMG = Config.ALIVE_PIC
 
 @borg.on(admin_cmd(outgoing=True, pattern="alive$"))
